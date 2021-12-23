@@ -7,6 +7,9 @@ I'm a software engineer from University of Antioquia.
 - 🌱 I’m currently learning React.
 
 
+- ⚡ Fun fact: i think JavaScript is weird, but i love it.
+
+
 You can find me here: www.linkedin.com/in/yaqueline-hoyos-montes-76992a196
 
 <!--
