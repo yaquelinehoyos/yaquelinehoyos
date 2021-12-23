@@ -6,6 +6,9 @@ I'm a software engineer from University of Antioquia.
 - 💚 I love Vue.js.
 - 🌱 I’m currently learning React.
 
+
+You can find me here: www.linkedin.com/in/yaqueline-hoyos-montes-76992a196
+
 <!--
 **yaquelinehoyos/yaquelinehoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
