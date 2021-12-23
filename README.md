@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software engineer from University of Antioquia.
+
+-🏢 I’m currently working at Globant as a Web UI Developer.
+- 💚 I love Vue.js.
+- 🌱 I’m currently learning React.
+
 <!--
 **yaquelinehoyos/yaquelinehoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
