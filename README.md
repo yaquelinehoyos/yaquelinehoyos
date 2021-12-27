@@ -12,7 +12,7 @@ Here you can check my [degree work](http://bibliotecadigital.udea.edu.co/handle/
 - ⚡ Fun fact: i think JavaScript is weird, but i love it.
 
 
-You can find me here: www.linkedin.com/in/yaqueline-hoyos-montes-76992a196
+You can find me here: www.linkedin.com/in/yaquelinehoyos/
 
 <!--
 **yaquelinehoyos/yaquelinehoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
