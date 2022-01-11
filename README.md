@@ -13,6 +13,7 @@ Here you can check my [degree work](http://bibliotecadigital.udea.edu.co/handle/
 You can find me on: 
 - https://yaquelinehoyos.com/
 - www.linkedin.com/in/yaquelinehoyos/
+- https://twitter.com/yaquelinehoyos
 
 <!--
 **yaquelinehoyos/yaquelinehoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
