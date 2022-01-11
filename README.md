@@ -7,7 +7,7 @@ Here you can check my [degree work](http://bibliotecadigital.udea.edu.co/handle/
 - 🏢 I’m currently working at Globant as a Web UI Developer.
 - 💚 I love Vue.js.
 - 🌱 I’m currently learning React.
-- ⚡ Fun fact: i think JavaScript is weird, but i love it.
+- ⚡ Fun fact: I think JavaScript is weird, but I love it.
 
 
 You can find me on: 
