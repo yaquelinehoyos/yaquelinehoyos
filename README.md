@@ -9,23 +9,38 @@ Here you can check my [degree work](http://bibliotecadigital.udea.edu.co/handle/
 - 🌱 I’m currently learning React.
 - ⚡ Fun fact: I think JavaScript is weird, but I love it.
 
+:muscle: Skills:
+
+- UI / UX / Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Vue
+- Vuex
+- React
+- Redux
+- Axios
+- Bootstrap
+
+:point_right: I have basic knowledge of:
+
+- Python
+- Backend
+- FastAPI
+- Data Science
+- Machine Learning
+- Numpy
+- OpenCV
+- Scikit-Learn
+- Cloud Machine Learning APIs
+- Java
+- C
+- C++
+
 
 You can find me on: 
 - https://yaquelinehoyos.com/
 - www.linkedin.com/in/yaquelinehoyos/
 - https://twitter.com/yaquelinehoyos
 
-<!--
-**yaquelinehoyos/yaquelinehoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
