@@ -11,11 +11,11 @@ You can check my thesis: [Defect detection in textile fibers using Deep Learning
 
 ##### Skills:
 
-UI / UX / Frontend / HTML / CSS / JavaScript / TypeScript / Vue / Vuex / React / Redux / Axios / Bootstrap
+UI | UX | Frontend | HTML | CSS | JavaScript | TypeScript | Vue | Vuex | React | Redux | Axios | Bootstrap
 
 ##### I have also worked with:
 
-Python / Backend / FastAPI / Data Science / Machine Learning / Numpy / OpenCV / Scikit-Learn / Java / C / C++
+Python | Backend | FastAPI | Data Science | Machine Learning | Numpy | OpenCV | Scikit-Learn | Java | C | C++
 
 ##### You can find me on: 
 - https://yaquelinehoyos.com/
