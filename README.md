@@ -20,5 +20,4 @@ Python | Backend | FastAPI | Data Science | Machine Learning | Numpy | OpenCV | 
 ##### You can find me on: 
 - https://yaquelinehoyos.com/
 - www.linkedin.com/in/yaquelinehoyos/
-- https://twitter.com/yaquelinehoyos
 
