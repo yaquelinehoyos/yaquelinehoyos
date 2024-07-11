@@ -5,8 +5,7 @@ I'm a software engineer from University of Antioquia.
 You can check my thesis: [Defect detection in textile fibers using Deep Learning algorithms](http://bibliotecadigital.udea.edu.co/handle/10495/15470).
 
 - 🏢 I’m currently working at deepset as a Frontend Engineer.
-- 💚 I love Vue.js.
-- 🌱 I’m currently learning React.
+- 💚 I love Vue.js and React
 - ⚡ Fun fact: I think JavaScript is weird, but I love it.
 
 ##### Skills:
