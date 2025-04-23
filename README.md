@@ -1,4 +1,4 @@
-# 👋 Hola, I'm Yaqueline Hoyos
+# 👋 Hola, I'm Yaqueline
 
 ## 🌸 Frontend Engineer & AI Enthusiast
 
@@ -35,5 +35,5 @@ I'm a Frontend Engineer based in Berlin, Germany, specializing in building respo
 
 ---
 
-*"In a world where you can be as you want to be, choose to be kind."* 🌸
+*"In a world where you can be as you want to be, choose to be kind."*
 
