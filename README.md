@@ -1,6 +1,6 @@
 # 👋 Hola, I'm Yaqueline
 
-## 🌸 Frontend Engineer & AI Enthusiast
+## Frontend Engineer & AI Enthusiast
 
 I'm a Frontend Engineer based in Berlin, Germany, specializing in building responsive and user-focused web applications. Currently working at deepset, where I develop dashboards for NLP and Machine Learning projects.
 
@@ -19,7 +19,6 @@ I'm a Frontend Engineer based in Berlin, Germany, specializing in building respo
 - Develop AI/ML project dashboards
 - Create intuitive user experiences
 - Write clean, maintainable code
-- Bridge the gap between design and development
 
 ### 🌍 Languages
 
@@ -35,5 +34,5 @@ I'm a Frontend Engineer based in Berlin, Germany, specializing in building respo
 
 ---
 
-*"In a world where you can be as you want to be, choose to be kind."*
+🌸 *"In a world where you can be as you want to be, choose to be kind."*
 
